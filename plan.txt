@@ -1,0 +1,6 @@
+a simple language learning app
+    
+    home page
+        introduce the website
+        short section about the developer
+    
