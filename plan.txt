@@ -2,5 +2,6 @@ a simple language learning app
     
     home page
         introduce the website
+        subjects section
         short section about the developer
     
