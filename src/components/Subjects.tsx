@@ -4,7 +4,10 @@ export default function Subjects() {
   return (
     <div className="mt-4 flex flex-wrap gap-3 w-2/3 flex-shrink justify-center">
       <div className="">
-        <Link className="text-blue-500 hover:text-blue-100" href={"/verbs"}>
+        <Link
+          className="text-blue-500 hover:text-blue-100"
+          href={"/learn/verbs"}
+        >
           Verbs and Verb Tenses
         </Link>
         <p>

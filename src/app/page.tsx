@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="my-12 px-2">
-      <div className="flex flex-col gap-2 justify-center items-center text-center ">
+      <div className="flex flex-col gap-2 justify-center items-center text-center">
         <Image
           className="mx-auto"
           src="/bongocat.svg"
