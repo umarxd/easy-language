@@ -18,7 +18,7 @@ export default function Subjects() {
       <div className="">
         <Link
           className="text-blue-500 hover:text-blue-100"
-          href={"/adjectives"}
+          href={"/learn/adjectives"}
         >
           Adjectives
         </Link>
