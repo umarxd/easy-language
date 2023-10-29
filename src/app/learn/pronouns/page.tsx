@@ -3,7 +3,7 @@ export default function Pronouns() {
     <div className="flex flex-col gap-2 justify-center items-center mx-4">
       <p>
         Pronouns are words that are used in place of nouns in a sentence. They
-        help avoid repetition and make sentences less cumbersome. Here's an
+        help avoid repetition and make sentences less cumbersome. Here is an
         overview of different types of pronouns in English:
       </p>
 

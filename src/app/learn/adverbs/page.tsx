@@ -4,7 +4,7 @@ export default function Adverbs() {
       <p>
         Adverbs are words that modify verbs, adjectives, or other adverbs. They
         provide more information about how, when, where, or to what extent an
-        action is performed. Here's a breakdown of adverbs in English:
+        action is performed. Here is a breakdown of adverbs in English:
       </p>
 
       <div className="mt-4">
@@ -105,7 +105,7 @@ export default function Adverbs() {
             <li className="ml-6">
               <p>
                 Adverbs of frequency are usually placed before the main verb
-                except in the case of the verb "to be."
+                except in the case of the verb to be.
               </p>
               <p>
                 Example: She <span className="font-bold"> always </span> does

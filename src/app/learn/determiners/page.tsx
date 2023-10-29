@@ -77,7 +77,7 @@ export default function Determiners() {
               Indicates an unspecified quantity of a noun.
             </p>
             <p className="ml-6">
-              Example: She has some books. I don't have any time.
+              Example: She has some books. I do not have any time.
             </p>
             <p>
               <span className="font-bold">All, Both, Neither, Either: </span>

@@ -5,7 +5,7 @@ export default function Adjectives() {
         Adjectives are words that describe or modify nouns (people, places,
         things, or ideas) by providing more information about their qualities or
         attributes. Adjectives help make your writing more vivid and
-        descriptive. Here's what you need to know about adjectives in English:
+        descriptive. Here is what you need to know about adjectives in English:
       </p>
 
       <div className="mt-4">

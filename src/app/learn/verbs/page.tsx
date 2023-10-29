@@ -4,7 +4,7 @@ export default function Verbs() {
       <p>
         Verbs are an essential part of English grammar. They are words that
         describe an action, occurrence, or state of being. Understanding verb
-        tenses is crucial for effective communication in English. Here's a
+        tenses is crucial for effective communication in English. Here is a
         breakdown of some common verb tenses:
       </p>
       <div>

@@ -21,7 +21,7 @@ export default function Interjections() {
             <h6>1. Wow: Used to express amazement, surprise, or admiration.</h6>
           </li>
           <li className="ml-6">
-            <p>Example: Wow, that's an incredible performance!</p>
+            <p>Example: Wow, that is an incredible performance!</p>
           </li>
           <li className="font-bold">
             <h6>
@@ -30,7 +30,7 @@ export default function Interjections() {
             </h6>
           </li>
           <li className="ml-6">
-            <p>Example: Oh, I didn't know you were coming.</p>
+            <p>Example: Oh, I did not know you were coming.</p>
           </li>
           <li className="font-bold">
             <h6>3. Ouch: Used to express pain or discomfort.</h6>
@@ -81,7 +81,7 @@ export default function Interjections() {
             </h6>
           </li>
           <li className="ml-6">
-            <p>Example: Hmm, I'm not sure about that.</p>
+            <p>Example: Hmm, I am not sure about that.</p>
           </li>
           <li className="font-bold">
             <h6>
@@ -96,8 +96,8 @@ export default function Interjections() {
 
       <div className="my-4 text-sm">
         Interjections add emotional context to conversations and help convey the
-        speaker's feelings. They are often used in informal or casual speech and
-        writing. When using interjections, it's important to consider the tone
+        speakers feelings. They are often used in informal or casual speech and
+        writing. When using interjections, it is important to consider the tone
         and context of the conversation to ensure they are appropriate.
       </div>
     </div>

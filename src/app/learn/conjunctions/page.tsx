@@ -73,7 +73,7 @@ export default function Conjunctions() {
             </p>
             <p className="font-bold">Example Sentences:</p>
             <p className="ml-6">
-              She finished her work; however, she didn't submit it on time.
+              She finished her work; however, she did not submit it on time.
             </p>
             <p className="ml-6">
               He failed the exam; therefore, he needs to retake the course.
