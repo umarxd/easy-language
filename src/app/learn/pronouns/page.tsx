@@ -1,4 +1,4 @@
-export default function Determiners() {
+export default function Pronouns() {
   return (
     <div className="flex flex-col gap-2 justify-center items-center mx-4">
       <p>

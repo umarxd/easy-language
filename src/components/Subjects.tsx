@@ -65,7 +65,7 @@ export default function Subjects() {
       <div>
         <Link
           className="text-blue-500 hover:text-blue-100"
-          href={"/conjunctions"}
+          href={"/learn/conjunctions"}
         >
           Conjunctions
         </Link>
