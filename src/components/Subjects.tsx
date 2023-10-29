@@ -51,7 +51,10 @@ export default function Subjects() {
         </p>
       </div>
       <div>
-        <Link className="text-blue-500 hover:text-blue-100" href={"/pronouns"}>
+        <Link
+          className="text-blue-500 hover:text-blue-100"
+          href={"/learn/pronouns"}
+        >
           Pronouns
         </Link>
         <p>
